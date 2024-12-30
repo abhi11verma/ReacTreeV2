@@ -17,12 +17,13 @@
 <!-- BADGES -->
 <div align="center">      
   <!-- VSCode Installs -->
-    <b><u><span><a href="https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree">
-    Install ReacTree</a>
+    <b><u><span><a href="https://marketplace.visualstudio.com/items?itemName=abhi11verma.reactreev2">
+    Install ReacTreeV2</a>
     </span></u></b>
-    <p><img src="https://img.shields.io/visual-studio-marketplace/v/reactreedev.reactree"></p>
+    <p><img src="https://img.shields.io/visual-studio-marketplace/v/abhi11verma.reactreev2"></p>
 </div>
 
+## Rest of the description is from original repository
 <hr>
 
 <!-- TABLE OF CONTENTS -->
