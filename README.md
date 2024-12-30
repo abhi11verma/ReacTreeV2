@@ -5,7 +5,7 @@
   <a href="https://github.com/oslabs-beta/ReacTree">
     <img src="https://raw.githubusercontent.com/oslabs-beta/ReacTree/dev/src/media/icon.png" alt="Logo" height="250">
   </a>
-  <h1 align="center"><b>ReacTree</b></h1>
+  <h1 align="center"><b>ReacTreeV2</b></h1>
 </p>
 
   <h2 align="center">
