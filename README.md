@@ -27,14 +27,14 @@
 <br/>
 
 ## <b>Overview</b>
-This is the fixed and customized version of original Repository [https://github.com/oslabs-beta/ReacTree/](ReacTree)
+This is the fixed and customized version of original Repository https://github.com/oslabs-beta/ReacTree/
 <br>
 As the original extension stopped working, have forked and continued the enhancements. Thanks to the original contributor for the project. (check below)
 </br>
 
 ## <b>Installation</b>
 
-The ReacTree extension can be easily installed via the <a href='https://marketplace.visualstudio.com/items?itemName=abhi11verma.reactreev2'>VS Code Marketplace</a>. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or by using the View: Extensions command (Ctrl+Shift+X). Type ‘reacTreeV2’ in the search box and select the Install button. VS Code will download and install the extension from the Marketplace.
+The ReacTreeV2 extension can be easily installed via the <a href='https://marketplace.visualstudio.com/items?itemName=abhi11verma.reactreev2'>VS Code Marketplace</a>. Bring up the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of VS Code or by using the View: Extensions command (Ctrl+Shift+X). Type ‘reacTreeV2’ in the search box and select the Install button. VS Code will download and install the extension from the Marketplace.
 <br/>
 
 <p align="center">
