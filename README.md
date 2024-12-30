@@ -9,7 +9,7 @@
 </p>
 
   <h2 align="center">
-    A VS Code extension with a dynamic and interactive hierarchy visualizer for React applications.
+    A VS Code extension with a dynamic and interactive hierarchy visualizer for React applications. (Forked from original)
     <br />
     <br />
   </h2>
