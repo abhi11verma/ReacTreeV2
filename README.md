@@ -69,6 +69,8 @@ Additionally, we realized documentation on building a VSCode Webview Panel with 
 <br/>
 <br/>
 
+## <b>Me!</b>
+- Abhishek Verma • [LinkedIn](https://www.linkedin.com/in/abhiverma-abhishek/) • [Github](https://github.com/abhi11verma)
 
 
 ## <b>Original Team/Contributor</b>
